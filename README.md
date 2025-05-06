@@ -10,93 +10,46 @@
 ¿Qué diferencia hay entre quienes usan terapia o meditación y quienes no?
 - 
 
-🟠 1. Introducción / Panorama general
+🟠 1. Introducción / Panorama general: presentar el contexto general del bienestar emocional.
 
-    Gráficos sugeridos:
-
-        Tarjetas KPI: mostrar promedios generales (ansiedad, depresión, satisfacción de vida).
-
-        Distribuciones: histogramas de ansiedad, depresión, estrés.
+        Mostrar promedios generales (ansiedad, depresión, satisfacción de vida).
 
         Segmentación por género, edad o empleo (usando segmentadores o filtros visuales).
 
-**Objetivo narrativo**: presentar el contexto general del bienestar emocional.
 
-🟡 2. Factores de estilo de vida y su relación con la salud mental
+🟡 2. Factores de estilo de vida y su relación con la salud mental: comparación de estrés o autoestima entre personas que meditan / no meditan, hacen terapia / no hacen.
 
-    Gráficos sugeridos:
-
-        Gráfico de dispersión: sueño vs. ansiedad, actividad física vs. depresión.
-
-        Gráficos de barras agrupadas: comparación de estrés o autoestima entre personas que meditan / no meditan, hacen terapia / no hacen.
+        Sueño vs. ansiedad, actividad física vs. depresión.
 
 👉 “¿Más horas de sueño realmente se relacionan con menos ansiedad?”
 👉 “¿La meditación y la terapia mejoran la satisfacción de vida?”
 
-🟢 3. Apoyo social y autoestima
 
-    Gráficos sugeridos:
+🟢 3. Apoyo social y autoestima: relación entre apoyo social y satisfacción de vida.
 
-        Gráficos de líneas o de puntos: relación entre apoyo social y satisfacción de vida.
-
-        Gráfico de radar o heatmap: para comparar autoestima, soledad y satisfacción de vida por grupos (edad, género, etc.).
+        Comparar autoestima, soledad y satisfacción de vida por grupos (edad, género, etc.).
 
 👉 “Las personas con mayor apoyo social tienden a sentirse menos solas y más satisfechas con su vida.”
 
-🔵 4. Estrés financiero y laboral
 
-    Gráficos sugeridos:
-
-        Gráfico de barras apiladas: niveles de estrés financiero vs. ansiedad/depresión.
+🔵 4. Estrés financiero y laboral: niveles de estrés financiero vs. ansiedad/depresión.
 
         Segmentación por empleo o nivel educativo.
 
 👉 “Los altos niveles de estrés laboral y financiero están fuertemente asociados con peores indicadores de salud mental.”
 
-🟣 5. Conclusiones / Recomendaciones
-   
-    Visuales sugeridos:
 
-        Matriz de correlación (si es posible en Power BI con visual personalizado).
-
-        Gráfico resumen con insights clave.
-
-        Texto narrativo o tarjetas con conclusiones en lenguaje claro.
+🟣 5. Conclusiones:
 
 “Los datos muestran una clara asociación entre **hábitos de vida saludables** (sueño, ejercicio, meditación), **redes de apoyo** y un **mejor estado emocional**. El **estrés financiero** y la **falta de apoyo emocional** aparecen como **focos de atención** para mejorar el bienestar.”
 
 
 
-        ### Usar colores suaves para temas de salud mental, como azules, lilas o verdes, que transmiten calma.
-        ### Contar la historia paso a paso, como si llevaras al usuario de la mano a descubrir lo que vos descubriste
-
-
-
-
-
-# Factores
-
-- Age (**Edad**): Valor mínimo: 18, valor máximo 74 años.
-- Sleep_Hours (**Horas de Sueño**): Valor mínimo: 2.0, valor máximo 12.4 horas.
-- Physical_Activity_Hrs (**Horas de Actividad Física**): Valor mínimo: 0.0, valor máximo 15.1 horas.
-- Social_Support_Score (**Puntuación de Apoyo Social**): Valor mínimo: 18, valor máximo 9.0.
-- Anxiety_Score (**Puntuación de Ansiedad**): Valor mínimo: 0.5, valor máximo 10.0.
-- Depression_Score (**Puntuación de Depresión**): Valor mínimo: 0.5, valor máximo 10.0.
-- Stress_Level (**Nivel de Estrés**): Valor mínimo: 1.0, valor máximo 9.0.
-- Financial_Stress (**Estrés Financiero**): Valor mínimo: 1.0, valor máximo 9.0.
-- Work_Stress (**Estrés Laboral**): Valor mínimo: 1.0, valor máximo 9.0.
-- Self_Esteem_Score (**Puntuación de Autoestima**): Valor mínimo: 1.0, valor máximo 9.0.
-- Life_Satisfaction_Score (**Puntuación de Satisfacción con la Vida**): Valor mínimo: 1.0, valor máximo 9.0.
-- Loneliness_Score (**Puntuación de Soledad**): Valor mínimo: 1.0, valor máximo 9.0.
-- Gender (**Género**): 'Male': Hombre, 'Female': Mujer, 'Non-Binary': No binario, 'Other': Otro.
-- Education_Level (**Nivel Educativo**): 'High School': Secundaria, 'Bachelor's': Licenciatura, 'Master's': Maestría, 'PhD': Doctorado, 'Other': Otro.
-- Employment_Status (**Estado Laboral**): 'Employed': Empleado, 'Unemployed': Desempleado, 'Student': Estudiante, 'Retired': Jubilado, 'Other': Otro.
-- Family_History (**Antecedentes Familiares**): 'Yes': Sí, 'No': No.
-- Substance_Use (**Uso de Sustancias**): 'Frequent': Frecuente, 'Occasional': Ocasional.
-
 **********************************
 
-## Descripción
+
+
+## Descripción de las variables:
 
 **Edad**:
 - Representa la edad cronológica del participante, medida en años, con un rango observado entre 18 y 74 años.
