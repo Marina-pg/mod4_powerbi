@@ -1,5 +1,6 @@
 
-## 🎯 Objetivo narrativo: presentar el contexto general del bienestar emocional.
+
+## 🎯 Objetivo narrativo: el contexto general del bienestar emocional.
 
 ¿Qué factores están más relacionados con la ansiedad y depresión?
 - 
@@ -10,7 +11,7 @@
 ¿Qué diferencia hay entre quienes usan terapia o meditación y quienes no?
 - 
 
-🟠 1. Introducción / Panorama general: presentar el contexto general del bienestar emocional.
+🟠 1. Introducción / Panorama general: el contexto general del bienestar emocional.
 
         Mostrar promedios generales (ansiedad, depresión, satisfacción de vida).
 
@@ -21,27 +22,27 @@
 
         Sueño vs. ansiedad, actividad física vs. depresión.
 
-👉 “¿Más horas de sueño realmente se relacionan con menos ansiedad?”
-👉 “¿La meditación y la terapia mejoran la satisfacción de vida?”
+ “¿Más horas de sueño realmente se relacionan con menos ansiedad?”
+“¿La meditación y la terapia mejoran la satisfacción de vida?”
 
 
 🟢 3. Apoyo social y autoestima: relación entre apoyo social y satisfacción de vida.
 
         Comparar autoestima, soledad y satisfacción de vida por grupos (edad, género, etc.).
 
-👉 “Las personas con mayor apoyo social tienden a sentirse menos solas y más satisfechas con su vida.”
+“Las personas con mayor apoyo social tienden a sentirse menos solas y más satisfechas con su vida.”
 
 
 🔵 4. Estrés financiero y laboral: niveles de estrés financiero vs. ansiedad/depresión.
 
         Segmentación por empleo o nivel educativo.
 
-👉 “Los altos niveles de estrés laboral y financiero están fuertemente asociados con peores indicadores de salud mental.”
+“Los altos niveles de estrés laboral y financiero están fuertemente asociados con peores indicadores de salud mental.”
 
 
 🟣 5. Conclusiones:
 
-“Los datos muestran una clara asociación entre **hábitos de vida saludables** (sueño, ejercicio, meditación), **redes de apoyo** y un **mejor estado emocional**. El **estrés financiero** y la **falta de apoyo emocional** aparecen como **focos de atención** para mejorar el bienestar.”
+“Los datos muestran una clara asociación entre **hábitos de vida saludables** (sueño, ejercicio, meditación), y un **mejor estado emocional**. El **estrés financiero** aparece como **foco de atención** para mejorar el bienestar.”
 
 
 
